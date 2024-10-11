@@ -76,9 +76,6 @@ Downloading a File
 ```bash
 > download report.pdf
 ```
-<div style="background-color: #fff3cd; border: 1px solid #ffeeba; color: #856404; padding: 10px; border-radius: 5px;">
 
-**Warning:** The file download command transfers data without encryption, so use it with caution.
-Ensure you have the necessary authorization level before trying to execute privileged commands.
-
-</div>
+> **Warning:** The file download command transfers data without encryption, so use it with caution.
+> Ensure you have the necessary authorization level before trying to execute privileged commands.
