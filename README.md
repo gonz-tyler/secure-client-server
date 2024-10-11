@@ -1,4 +1,4 @@
-# Server-Client Command Line Application
+# Client-Server Command Line Application
 
 This project consists of a **Server** and **Client** application that allow user authentication and file management via command line commands. You can create accounts, list users, manage files, and execute commands with different authorization levels.
 
